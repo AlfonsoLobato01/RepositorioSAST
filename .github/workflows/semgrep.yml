@@ -3,7 +3,6 @@ name: Semgrep SAST Scan
 permissions:
   contents: read
   actions: write
-  workflow: write
 
 on:
   push:
